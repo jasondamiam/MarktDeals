@@ -1,6 +1,29 @@
 # MarktDeals Android app
 
-Kotlin + Jetpack Compose implementation of the provided MarktDeals design.
+## Plan van aanpak
+### Welke onderdelen zal er in de app worden opgenomen
+- Aanbiedingen van supermarkten kunnen bekijken
+- Producten kunnen zoeken
+- Producten per categorie kunnen bekijken
+- Productinformatie kunnen bekijken
+- Meldingen kunnen ontvangen
+
+### Onderdelen voor het bouwen van het app
+**Type Mobiele Applicatie:** Android-App
+
+**Ontwikkelomgeving:** Android Studio
+
+**Programmeertaal:** Kotlin
+
+**Framework:** Jetpack Compose
+
+**Hardware-specifieke functionaliteit:** Meldingen
+
+### Waarom kies ik voor deze onderdelen
+Voor het bouwen van mijn app heb ik Android Studio gekozen als mijn ontwikkelomgeving. Android Studio is een IDE (Integrated Development Environment) die is speciaal ontwikkeld voor het maken van Android applicaties.
+
+
+## Ontwerp
 
 ## Screens
 - Home page with popular products, best deals and new deals
